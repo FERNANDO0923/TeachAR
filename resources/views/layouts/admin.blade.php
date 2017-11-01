@@ -27,9 +27,11 @@
         <!-- Logo -->
         <a href="index2.html" class="logo">
             <!-- mini logo for sidebar mini 50x50 pixels -->
-            <span class="logo-mini"><b>AD</b>V</span>
+            <span class="logo-mini"><b>T</b>AR</span>
             <!-- logo for regular state and mobile devices -->
-            <span class="logo-lg"><b>TeachAR</b></span>
+            <span class="logo-lg">
+                <b>TeachAR</b>
+            </span>
         </a>
 
         <!-- Header Navbar: style can be found in header.less -->
@@ -162,9 +164,9 @@
 <!--Fin-Contenido-->
 <footer class="main-footer">
     <div class="pull-right hidden-xs">
-        <b>Version</b> 2.3.0
+        <b>Version</b> 1.0.0
     </div>
-    <strong>Todos los derechos reservados Colegio Liceo Pedagógico San Martín   - 2016</strong>
+    <strong>Todos los derechos reservados Colegio Liceo Pedagógico San Martín   - 2017</strong>
 </footer>
 
 
